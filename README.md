@@ -255,7 +255,7 @@ p.note { display: none; }
 
 <br><br><br><br><br>
 <h2><span class="yellow">
-<a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
+<a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
 </span></h2>
 
 
