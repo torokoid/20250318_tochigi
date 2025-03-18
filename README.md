@@ -144,7 +144,7 @@ p.note { display: none; }
 <a href="20250318_006.JPG" target="_blank"><img src="20250318_006.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">タイ旅行の安全祈願をした羽黒山神社にお礼参りに来ました<br>画像クリックでGoogleMapsに飛びます↓</span></h2>
-<a href="https://www.google.com/maps/place/羽黒山/@38.70239,139.9724134,2841m/data=!3m2!1e3!4b1!4m6!3m5!1s0x5f8c041adffece6d:0x20a4d708a137b32d!8m2!3d38.7023743!4d139.9827131!16zL20vMGZ4ZF81?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><img src="20250318_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/place/羽黒山神社/@36.7085153,139.8780698,761m/data=!3m1!1e3!4m6!3m5!1s0x601f7aee0ed868cd:0xcb559abf755ffec8!8m2!3d36.7084835!4d139.8807709!16s%2Fg%2F1vxz9qnp?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><img src="20250318_007.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">天気はイマイチでしたが、展望は最高です</span></h2>
 <a href="20250318_008.JPG" target="_blank"><img src="20250318_008.JPG" alt="サンプル画像" width="900" /></a>
