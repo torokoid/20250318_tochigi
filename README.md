@@ -170,6 +170,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">今年の運勢をチェックします</span></h2>
 <a href="20250318_017.JPG" target="_blank"><img src="20250318_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2枚あるので、念の為拡大</span></h2>
 <a href="20250318_018.JPG" target="_blank"><img src="20250318_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250318_019.JPG" target="_blank"><img src="20250318_019.JPG" alt="サンプル画像" width="900" /></a>
     
